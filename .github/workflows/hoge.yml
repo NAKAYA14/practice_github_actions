@@ -6,4 +6,4 @@ jobs:
   echo_hellow_world:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "hellowworld!!"
+      - run: ls
